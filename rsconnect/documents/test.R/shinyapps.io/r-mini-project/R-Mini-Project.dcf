@@ -1,0 +1,13 @@
+name: R-Mini-Project
+title: R-Mini-Project
+username: r-mini-project
+account: r-mini-project
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11546512
+bundleId: 8397179
+url: https://r-mini-project.shinyapps.io/R-Mini-Project/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Mobile_Price_prediction.csv|StudentsPerformance.csv|testing.R
